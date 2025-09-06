@@ -1,0 +1,10 @@
+//assignment 
+let a = 2;
+a = a+10;
+a= a-10;
+
+//comparator 
+console.log(10>5);
+console.log(10<5);
+console.log(10>=5);
+console.log(10<=5);
