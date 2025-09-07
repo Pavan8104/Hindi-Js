@@ -1,0 +1,15 @@
+Ternary Operator
+let age = 25;
+let status = (age>18) ? "I Can Vote" : " I cannot vote";
+console.log(status);
+
+Logical Operator
+console.log(true && true && true);//Logical AND
+console.log(false ||  false || false); //Logical OR
+console.log(!true)//Logical NOT
+
+Logical Operators with non booleans
+
+console.log(false || "Babbar");
+console.log(false || 7);
+console.log(false || 7 || 11 || 18);
