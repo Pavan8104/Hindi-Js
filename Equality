@@ -1,0 +1,10 @@
+Equality 
+Loose equality
+//gives true value when data type and value are same if data type is not same than it will try to change data type
+console.log(5==5);
+console.log(5=='5');
+
+strict equality 
+//gives true value when both data type and value are same strictly
+console.log(5===5);
+console.log(5==='5')
