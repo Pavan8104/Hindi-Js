@@ -1,0 +1,30 @@
+console.log(2 & 5);//Bitwise AND
+console.log(2 | 5);//Bitwise OR
+console.log(~0);
+console.log(10 >> 1);//RIGHT Shift
+console.log(10<<1);//Left Shift
+
+If Else Statements
+let age = 53;
+if (age>=18);{
+    console.log("Can Vote");
+  }
+  else{
+  console.log("cannot Vote ")
+  }
+
+chaining of if else statement
+let number = 5;
+if (number === 1 );{
+console.log("A");
+}
+else if (number ===2 ){
+console.log("b");
+}
+else if (number ===3 ){
+console.log("B")
+}
+
+
+
+
