@@ -1,0 +1,16 @@
+let i = 1;
+do {
+   console.log("Pavan");
+   i++;
+}
+while( i <=  10 );
+
+
+
+
+
+
+
+
+
+
