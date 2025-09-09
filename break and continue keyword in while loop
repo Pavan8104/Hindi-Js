@@ -1,0 +1,39 @@
+let i = 1 ;
+ while (i < 5){
+    if (i === 3 ){
+        break;
+  }else{
+      console.log(i);
+   }
+   i++;
+}
+
+
+
+let i = 1 ;
+ while (i < 5 ){
+  if ( i === 3 ) {
+    continue ; //// This would cause an infinite loop if i++ is not before it
+    } else { 
+           console.log(i);
+     }
+i++
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
