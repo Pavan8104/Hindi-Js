@@ -1,0 +1,33 @@
+//Break key word
+for (let i = 1 ; i<=6 ; i++){
+    if (i===4){
+        break;
+    } else {
+     console.log(i)
+    }
+}
+
+// Continue Key word
+for (let i =1 ; i<= 6; i++){
+   if (i===4){
+      continue;
+}else {
+      console.log(i);
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
